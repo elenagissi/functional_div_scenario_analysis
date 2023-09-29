@@ -1,0 +1,16 @@
+Trait name;Trait measurement;Trait type;Number of classes;Classes code;Unit;trait_name;trait_type
+reproductive_strategy;Reproductive strategy;Categorical;"dioecism; protogyny";2;NA;reproductive_strategy;N
+terrestriality;terrestriality;Categorical;"yes; no";2;NA;terrestriality;N
+parental_care; parental_care post birth;Ordinal;"none; week_month; month_year; >year";4;NA;parental_care;O
+adult_mobility;Adult mobility;Categorical;"amphidromous; anadromous; non-migratory; oceanodromous; oceano-estuarine";5;NA;adult_mobility;N
+zones;Zones;Categorical;bathydemersal, bathypelagic, benthic, benthopelagic, demersal, pelagic, pelagic_neritic, pelagic_oceanic, reefassociated;8;NA;zones;N
+parental_investment;Parental investment pre birth;Categorical;"A; B; C; D; E; F";7;NA;parental_investment;N
+diet_main_component;Diet main;Categorical;"fish; invertebrates; invertebrates (no squid); sponge; highvertebrates; zooplankton; omnivorous; squid";8;NA;diet_main_component;N
+ length_max;Length;Continuous;NA;NA;cm;length_max;Q
+ trophic_level_food;Tropich level (food);Continuous;NA;NA;abs;trophic_level;Q
+ depth_max;Depth max;Continuous;NA;NA;m;depth_max;Q
+body_shape;Body shape;Categorical;"bag_shaped; cardiform or elliptical; eel-like; elongated; fusiform/normal; other; short and / or deep";7;NA;body_shape;N
+sexual_dimorphism;Sexual dimorphism;Categorical;"yes; no";2;NA;sexual_dimorphism;N
+sociality;Sociality;Ordinal;"solitary; small groups; medium groups; large groups";4;NA;sociality;O
+ext_diet_spec;Extreme diet specialization;Categorical;"specialist; generalist";2;NA;ext_diet_spec;N
+fecundity;Fecundity;Ordinal;"<1; 1; 1-2; 2-5; 5-10; 10-20; 20-50; 50-100; 100-1000; 1000-10000; >10000";11;NA;fecundity;O
